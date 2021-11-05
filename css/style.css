@@ -968,7 +968,7 @@ ul.hb_rev_slider, ul.hb_rev_slider li {
 /*------feature section end-------*/
 /*-------testimonial section start-------*/
 .hb_testimonial_wrapper {
-    background-image: url(http://via.placeholder.com/1920x1080);
+    background-image: url(images/keofull.png);
     padding: 100px 0;
     position: relative;
     background-repeat: no-repeat;
@@ -1665,7 +1665,7 @@ ul.hb_rev_slider, ul.hb_rev_slider li {
 /*------about page start---------*/
 .hb_breadcrumbs_wrapper {
     position: relative;
-    background-image: url(http://via.placeholder.com/1920x1080);
+    background-image: url(images/keofull.png);
     padding: 100px 0;
     text-align: center;
 }
