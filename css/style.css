@@ -818,7 +818,7 @@ ul.hb_rev_slider, ul.hb_rev_slider li {
 /*-----categories section end------- */
 /*-------add banner start---------*/
 .hb_add_banner_wrapper {
-    background-image: url(<a href="#"><img src="images/keofull.png" class="img-responsive" alt=""></a>);
+    background-image: <a href="#"><img src="images/keofull.png" class="img-responsive" alt=""></a>
     padding: 87px 0;
     position: relative;
     text-align: center;
